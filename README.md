@@ -1,6 +1,6 @@
-# JetShift - Jet Lag App Landing Page
+# Jet Lag Bye - Jet Lag App Landing Page
 
-A modern, minimal static website for the JetShift jet lag app. Designed for GitHub Pages deployment.
+A modern, minimal static website for the Jet Lag Bye jet lag app. Designed for GitHub Pages deployment.
 
 ## 🚀 Quick Start
 
@@ -13,12 +13,12 @@ A modern, minimal static website for the JetShift jet lag app. Designed for GitH
    git init
    git add .
    git commit -m "Initial commit"
-   git remote add origin https://github.com/YOUR_USERNAME/jetshift.git
+   git remote add origin https://github.com/YOUR_USERNAME/jetlagbye.git
    git push -u origin main
    ```
 3. Go to Repository Settings → Pages
 4. Set source to "Deploy from a branch" → main → / (root)
-5. Your site will be live at `https://YOUR_USERNAME.github.io/jetshift/`
+5. Your site will be live at `https://YOUR_USERNAME.github.io/jetlagbye/`
 
 ### Local Development
 
@@ -70,7 +70,7 @@ jetlag-app/
 Search for `#download` and replace the placeholder href with your actual App Store URL.
 
 ### Update Contact Email
-Replace `support@jetshift.app`, `privacy@jetshift.app`, and `legal@jetshift.app` with your actual email addresses.
+Replace `support@jetlagbye.app`, `privacy@jetlagbye.app`, and `legal@jetlagbye.app` with your actual email addresses.
 
 ### Add Real Testimonials
 Edit the testimonials section in `index.html` with real user reviews.
@@ -81,7 +81,7 @@ Edit the testimonials section in `index.html` with real user reviews.
 3. Update meta tags with image URLs
 
 ### Custom Domain
-1. Add a `CNAME` file with your domain (e.g., `jetshift.app`)
+1. Add a `CNAME` file with your domain (e.g., `jetlagbye.app`)
 2. Configure DNS with your registrar
 3. Enable HTTPS in GitHub Pages settings
 
@@ -108,7 +108,7 @@ Add your analytics by inserting the script before `</head>`:
 
 ```html
 <!-- Plausible (privacy-friendly) -->
-<script defer data-domain="jetshift.app" src="https://plausible.io/js/script.js"></script>
+<script defer data-domain="jetlagbye.app" src="https://plausible.io/js/script.js"></script>
 
 <!-- Or Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
@@ -124,4 +124,4 @@ Before submitting your iOS app:
 
 ## 📄 License
 
-© 2026 JetShift. All rights reserved.
+© 2026 Jet Lag Bye. All rights reserved.
